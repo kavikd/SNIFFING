@@ -1,12 +1,11 @@
-Gotchu 👍
-Single README.md raw code — just copy & paste.
+💙PRESENT ABOUT💙: KAVIARASAN G
 
 <!-- ======================= BANNER ======================= -->
-<h1 align="center">🧠🔍 Sniffing in Cyber Security</h1>
+<h1 align="center">🧠🔍 Sniffing in Cyber Forensics</h1>
 <h3 align="center">Seminar • Assignment • Case Study Ready Notes</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Cyber%20Security-Network%20Forensics-0A66C2?style=for-the-badge&logo=hackaday&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cyber%20Security-Cyber%20Forensics-0A66C2?style=for-the-badge&logo=hackaday&logoColor=white"/>
   <img src="https://img.shields.io/badge/Topic-Packet%20Sniffing-16A085?style=for-the-badge&logo=wireshark&logoColor=white"/>
   <img src="https://img.shields.io/badge/Level-Student%20Seminar-F39C12?style=for-the-badge&logo=readthedocs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Use-Assignment%20%2B%20Presentation-8E44AD?style=for-the-badge&logo=googleclassroom&logoColor=white"/>
