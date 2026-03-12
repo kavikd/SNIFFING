@@ -1,4 +1,8 @@
-💙PRESENT ABOUT💙: KAVIARASAN G
+
+💙PRESENT ABOUT💙: KAVIARASAN 
+
+<!-- ======================= BANNER ======================= -->
+<h1 align="center">‼️🌎❌SNIFFING🌎❌‼️</h1>
 
 <!-- ======================= BANNER ======================= -->
 <h1 align="center">🧠🔍 Sniffing in Cyber Forensics</h1>
@@ -99,7 +103,6 @@ Sniffing tools:
 - Rebuild sessions  
 
 ---
-
 ## 🧭 Types of Sniffing
 
 ### ✅ Passive Sniffing
@@ -247,7 +250,47 @@ Shows:
 ---
 
 # 🚨 Case Study — TJX Data Breach
+⚖️ Legal Sections Applied — Case Study Add-On
 
+🇺🇸 Laws Applied in This Case (United States)
+
+Attacker Albert Gonzalez was charged under major U.S. cybercrime laws:
+
+🔹 Computer Fraud and Abuse Act (CFAA)
+- Unauthorized access to protected computer systems
+- Network intrusion and hacking
+- Stealing confidential digital data
+
+🔹 Wire Fraud Law
+- Using internet communication to commit financial fraud
+
+🔹 Access Device Fraud
+- Theft and misuse of credit/debit card information
+
+🔹 Identity Theft Laws
+- Stealing and misusing personal identity information
+
+🔹 Conspiracy Charges
+- Working with organized hacker groups to commit cybercrime
+
+---
+
+🏛️ Court Judgment
+- Case tried in U.S. Federal Court
+- Found guilty on multiple cybercrime charges
+- 20 years federal prison sentence
+- One of the longest punishments in cybercrime history
+
+---
+
+
+---
+
+✅ Easy Way to Say in Seminar
+
+US Case: Hacker charged under cybercrime laws → Federal court trial → 20-year sentence
+
+If in India: IT Act Sections 43, 65, 66, 66B, 66C, 66D, 72 applicable
 ## 🏢 Company
 TJX Companies
 
@@ -302,4 +345,8 @@ Sniffers found → Online tracking → Hacker caught
 
 ---
 
-<p align="center"><b>⭐ If this helped your seminar, give it a star ⭐</b></p>
+<p align="center"><b>⭐ “Network sniffing enables the capture and analysis of data packets, serving as a critical tool for cybersecurity and forensic investigations.“ ⭐</b></p>
+
+
+<!-- ======================= BANNER ======================= -->
+<h1 align="center">......THANK YOU.....</h1>
