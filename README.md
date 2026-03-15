@@ -1,7 +1,7 @@
 💙PRESENT ABOUT💙: KAVIARASAN 
 
 <!-- ======================= BANNER ======================= -->
-<h1 align="center">‼️🌎❌SNIFFING🌎❌‼️</h1>
+<h1 align="center">❌SNIFFING❌</h1>
 
 <!-- ======================= BANNER ======================= -->
 <h1 align="center">🧠🔍 Sniffing in Cyber Forensics</h1>
@@ -190,6 +190,14 @@ Sniffing plays a key role in Cyber Forensics.
 - Protocol decoding
 - Stream reconstruction
 - Forensic export support
+
+### Sniffing Tool — TCPdump
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Tool-TCPdump-FF6F00?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Type-Open%20Source-2ECC71?style=for-the-badge&logo=opensourceinitiative&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Platform-Linux%20%7C%20macOS-34495E?style=for-the-badge&logo=linux&logoColor=white"/>
+</p>
 
 ### 🛠️ Tcpdump
 - Command-line packet analyzer
