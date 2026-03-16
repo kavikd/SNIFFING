@@ -319,4 +319,7 @@ Used maliciously:
 - Data theft
 - Privacy invasion
 
-Strong encryption and monitoring are essential in modern networks.
+---
+# devloper
+
+<img src="IMG-20260222-WA0004.jpg" width="90" align="left" />
